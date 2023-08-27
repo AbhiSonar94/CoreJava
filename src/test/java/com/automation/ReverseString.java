@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ReverseString {
 
     Scanner in = new Scanner(System.in);
+    //reports - test-output
     @Test(priority = 0)
     public void reverseStringInBuiltMethod()
     {
