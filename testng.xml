@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Core Java Code Snippet Suite" parallel="false">
+    <test name="FirstCode" preserve-order="true" parallel="false">
+        <classes>
+            <class name="com.automation.ReverseString" />
+        </classes>
+    </test>
+</suite>
